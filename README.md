@@ -1,7 +1,7 @@
 
 ## Olá mundo! 
 Sou o **Mateus Muniz**, apaixonado por tecnologia e sempre em busca de aprender algo novo.  
-Atualmente mergulhado no mundo do **desenvolvimento web**, criando projetos que unem **lógica e visual**. 🚀  
+Atualmente mergulhado no mundo do **desenvolvimento web**, criando projetos que unem **lógica e visual**. 
 
 ---
 
@@ -42,7 +42,7 @@ Atualmente mergulhado no mundo do **desenvolvimento web**, criando projetos que 
 
 ---
 
-### ✨ Um pouco sobre mim:
+###  Um pouco sobre mim:
 > “A tecnologia pode mudar o mundo, mas é a disciplina que transforma o aprendizado em resultado.”  
 
 👨‍💻 De técnico de campo a desenvolvedor web em evolução.  
