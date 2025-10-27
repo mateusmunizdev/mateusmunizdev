@@ -1,5 +1,5 @@
-![Mateus Muniz Banner](https://raw.githubusercontent.com/mateusmunizdev/mateusmunizdev/main/Banner.png)
-## Olá mundo! 😁  
+
+## Olá mundo! 
 Sou o **Mateus Muniz**, apaixonado por tecnologia e sempre em busca de aprender algo novo.  
 Atualmente mergulhado no mundo do **desenvolvimento web**, criando projetos que unem **lógica e visual**. 🚀  
 
