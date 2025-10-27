@@ -1,4 +1,4 @@
-![Mateus Muniz Banner](https://raw.githubusercontent.com/mateusmuniz-09/mateusmunizdev/main/banner.png)
+![Mateus Muniz Banner](https://raw.githubusercontent.com/mateusmuniz-09/mateusmunizdev/main/Banner.png)
 ## Olá mundo! 😁  
 Sou o **Mateus Muniz**, apaixonado por tecnologia e sempre em busca de aprender algo novo.  
 Atualmente mergulhado no mundo do **desenvolvimento web**, criando projetos que unem **lógica e visual**. 🚀  
